@@ -297,3 +297,6 @@ There're lots of works you can do after this tutorial:
 ## Link
 - Tengine Community: http://www.tengine.org.cn/
 - Tengine github: https://github.com/OAID/Tengine
+- Tengine QQ group: 829565581 `Question:Tengine Answer:openailab`
+
+You can ask questions in Tengine QQ group/github issues.
