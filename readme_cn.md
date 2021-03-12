@@ -303,8 +303,4 @@ $$A[16, k] \times B[k,4] = C[16,4]$$
 
 
 ## Tengine相关链接
-- Tengine网站: http://www.tengine.org.cn/
-- Tengine github: https://github.com/OAID/Tengine
-- Tengine QQ交流群: **829565581** `Question:Tengine Answer:openailab`
-
-你可以在Tengin eQQ交流群中提问，或者在github issue中提问。
+- Tengine doc:https://tengine-docs.readthedocs.io/zh_CN/latest/index.html
